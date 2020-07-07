@@ -2,7 +2,7 @@
 ## 2. Train your first neural network - <a href="simple_ANN.html">click here</a>
 ## 3. Getting to grips with convolutional neural networks - <a href="CNN_classifier.html">click here</a>
 
-<br><center><b>You can download the jupyter notebooks and try out the code for yourself at my <a href="https://github.com/slack-a-jack/ml-getting-started/tutorial_notebooks">github repo.</a></b></center>
+<br><center><b>You can download the jupyter notebooks and try out the code for yourself at my <a href="https://github.com/slack-a-jack/ml-getting-started/tree/master/tutorial_notebooks">github repo.</a></b></center>
 
 <center> Let me know if you spot any mistakes or typos or if you get error codes <br>on your machine by contacting <em>j.radford.1@research.gla.ac.uk.</em> </center>
 

@@ -4,7 +4,7 @@
 *J. Radford (j.radford.1@research.gla.ac.uk)* <br>
 
 Extreme Light group - Univ. of Glasgow <br>
-_(http://www.physics.gla.ac.uk/XtremeLight/index.html)_
+<a> http://www.physics.gla.ac.uk/XtremeLight/index.html </a>
 
 ## 1. Set up your computer with all the stuff you'll need - <a href="setup.html">click here</a>
 ## 2. Train your first neural network - <a href="simple_ANN.html">click here</a>

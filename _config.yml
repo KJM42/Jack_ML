@@ -1,1 +1,10 @@
 theme: jekyll-theme-cayman
+title: Getting Started with Machine Learning in Python
+description: A quick guide into the basics of the software and code you'll need to start training neural networks with Tensorflow and Keras
+author: Jack Radford
+
+social-network-links:
+  email: "j.radford.1@research.gla.ac.uk"
+  github: slack-a-jack
+  twitter: JackRadford95
+  
